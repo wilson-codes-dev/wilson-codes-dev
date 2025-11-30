@@ -1,6 +1,6 @@
 # Hi there, I'm Wilson Otieno! 👋
 
-![Banner Image]([your_banner_image_url_here](https://ibb.co/hxf0jGW9)
+([your_banner_image_url_here](https://ibb.co/hxf0jGW9)
 
 ## About Me 🚀
 
