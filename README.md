@@ -10,7 +10,7 @@ I'm a passionate **Educational technologist** with experience in **full-stack de
 - 🔭 Working on: **AI-powered school performance prediction system that estimates students’ exam outcomes using data such as attendance, past academic records, discipline reports, class participation and engagement and assignment performance.**
 - 🌍 Languages: **Python, Javascript, MATLAB**
 - 📫 How to reach me: **sirwilson463@gmail.com**
-- ⚡ Fun fact: **I'm not saying I'm a genius, but if Google had a "Why didn't I think of that?' feature, I'd be the most searched**
+- ⚡ Fun fact: **I'm not saying I'm a genius, but if Google had a 'Why didn't I think of that?' feature, I'd be the most searched**
 
 ## My Skills 🧠
 
