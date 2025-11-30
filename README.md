@@ -6,7 +6,7 @@
 
 I'm a passionate **Educational technologist** with experience in **full-stack development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **AI model deployment, machine learning and and intelligent system design to drive impactful, tech-enabled education initiatives.**
+- 🌱 Currently learning: **AI model deployment, machine learning and intelligent system design to drive impactful, tech-enabled education initiatives.**
 - 🔭 Working on: **AI-powered school performance prediction system that estimates students’ exam outcomes using data such as attendance, past academic records, discipline reports, class participation and engagement and assignment performance.**
 - 🌍 Languages: **Python, Javascript, MATLAB**
 - 📫 How to reach me: **sirwilson463@gmail.com**
