@@ -1,6 +1,6 @@
 # Hi there, I'm Wilson Otieno! 👋
 
-[https://ibb.co/hxf0jGW9]
+(https://ibb.co/hxf0jGW9)
 
 ## About Me 🚀
 
@@ -24,8 +24,8 @@ I'm a passionate **Educational technologist** with experience in **full-stack de
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(https://wilsonotieno.vercel.app)
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/wilson-o-o2025/)
-- **[Twitter]**([your_twitter_profile_link](https://x.com/SirWilson_))
+- **[LinkedIn]**(https://www.linkedin.com/in/wilson-o-o2025/)
+- **[Twitter]**(https://x.com/Sirwilson_)
 
 
 �
