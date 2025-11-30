@@ -1,7 +1,5 @@
 # Hi there, I'm Wilson Otieno! 👋
 
-(https://ibb.co/hxf0jGW9)
-
 ## About Me 🚀
 
 I'm a passionate **Educational technologist** with experience in **full-stack development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
